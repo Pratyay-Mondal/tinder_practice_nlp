@@ -6,4 +6,11 @@ data/logs/
 models/
 data/results/
 
+#LLM binaries
+*.gguf
+models/gguf/
 
+#Archived Experiments
+archive/
+
+*.code-workspace

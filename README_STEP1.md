@@ -1,5 +1,15 @@
 # Step 1 — Scope and Success Metrics (Capstone NLP)
 
+Note: This document covers the initial Step 1 deliverable only. For current project status and workflows, see `README.md`.
+
+## v0.4 Offline Chatbot (llama.cpp + v0.3 safety gate)
+Run the terminal chatbot with a local GGUF instruct model (no internet needed once the model is downloaded).
+
+Example:
+```bash
+python -u -m src.chat_v0_3_chatbot --gguf_model models/gguf/Phi-3-mini-4k-instruct-q4.gguf --persona flirty_adult_ok --threshold 0.45
+```
+
 ## Purpose
 This repository defines a platform-agnostic dating-chat practice simulator dataset and evaluation rubric for an NLP capstone project.
 

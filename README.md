@@ -38,7 +38,7 @@ Outputs:
 - `data/results/final_v0_6_report.json`
 
 
-## Demo:
+## Demo
 <img width="1097" height="922" alt="nlp" src="https://github.com/user-attachments/assets/b9062794-0807-4a48-8b7c-7d841c1fe8bb" />
 
 

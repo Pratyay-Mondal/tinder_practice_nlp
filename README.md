@@ -37,6 +37,12 @@ python -m src.eval_final_v0_6
 Outputs:
 - `data/results/final_v0_6_report.json`
 
+
+## Demo:
+<img width="1097" height="922" alt="nlp" src="https://github.com/user-attachments/assets/b9062794-0807-4a48-8b7c-7d841c1fe8bb" />
+
+
+
 ## Notes on Reproducibility
 - The final evaluation is deterministic given the same model artifact and dataset.
 - If you run with GPU embeddings, tiny floating-point differences may occur.
